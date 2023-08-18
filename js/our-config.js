@@ -24,7 +24,7 @@ var organisationConfig = {
     useLogo: true,
     useLabel: true,
 
-    license: "cc-by",
+    license: "cc-0",
     addSectionLinks: true,
 
     localizationStrings: {
@@ -90,7 +90,7 @@ var organisationConfig = {
         wv: "#FF0000",
         cv: "#045D9F",
         vv: "#045D9F",
-        basis: "#80CC28",
+        basis: "#0d5354",
     },
     
     licenses: {
