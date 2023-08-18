@@ -1,1 +1,2 @@
-TODO: vul in abstract.md een abstract in.
+In order to have civic and activist voices heard in the development of the European common dataspace(s) and the implementation of the new EU data laws, this page aims to provide lists of stakeholders across the EU that might be / want to be involved.
+The aim is to list per Member State which organisations and individuals engage around the Data Governance Act, Data Act, AI Regulation, Open Data Directive, High Value Data Implementing Regulation, and the forming of the common data space and its sectoral off shoots (DSSC, GDDS, EHDS, etc.)
