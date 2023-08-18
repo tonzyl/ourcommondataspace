@@ -1,5 +1,5 @@
 let respecConfig = {
-  useLogo: false,
+  useLogo: true,
   useLabel: true,
   // title is verplicht! Neem hier de titel van het document op ----------------------
   title: "Our Common Data Space",
