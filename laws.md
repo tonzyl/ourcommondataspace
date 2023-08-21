@@ -1,6 +1,6 @@
 # The EU laws of the Data Strategy
 
-The EU Data Strategy that leads to the forming of the European common data space consists of several laws:
+The [EU Data Strategy](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en) that leads to the forming of the European common data space consists of several laws:
 - [Data Governance Act (DGA)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52020PC0767), in force
 - Data Act (DA), under negotiation
 - [Open Date Directive (ODD)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024), in force
