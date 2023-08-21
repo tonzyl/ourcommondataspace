@@ -66,9 +66,9 @@ let respecConfig = {
   github: "https://github.com/tonzyl/ourcommondataspace",
   // Create PDF and link to file in header (optional):
   alternateFormats: [
-      {
+  //    {
   //        label: "pdf",
   //        uri: "template.pdf",
-      },
-  ],
+  //    },
+  // ],
 };
