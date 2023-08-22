@@ -1,4 +1,4 @@
 In order to have civic and activist voices heard in the development of the European common dataspace(s) and the implementation of the new EU data laws, this page aims to provide lists of stakeholders across the EU that might be / want to be involved. The public interest and the commons have a clear stake in the European common data space, as it is the embodiment of the free movement of data and the single market for data.
 The aim is to list per Member State which organisations and individuals engage around the Data Governance Act, Data Act, AI Regulation, Open Data Directive, High Value Data Implementing Regulation, and the forming of the common data space and its sectoral off shoots (DSSC, GDDS, EHDS, etc.) We also aim to list events where people who are involved meet and participate.
 
-These pages are an emerging effort. If you have information to add, or want to take part in maintaining this space, do get in touch.
+These pages are an emerging effort. If you have information to add, or want to take part in maintaining this space, do get in touch (info@ourcommondataspace.eu).
