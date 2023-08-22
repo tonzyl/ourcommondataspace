@@ -10,3 +10,4 @@ Below are a few events listed that may serve as a way to get involved. At some f
 - [INSPIRE conference](https://inspire.ec.europa.eu/events/inspire-conference-2023), Brussels, 28-29 Nov. EUHVD, DGA, geo-information, and Green Deal Data Space likely on the agenda.
 - [EMODNet Conference](https://emodnet.ec.europa.eu/en/registration-opens-emodnet-open-conference-2023-brussels-belgium-29-30-november-2023), Brussels, 29-30 Nov. The role of Marine data in the Green Deal Data Space and the digital twin for the oceans is likely to be discussed.
 - 
+<iframe width="400" height="215" src="https://cloud.tgl.eu/apps/calendar/embed/DEFtdqknffZRFKg5"></iframe>
