@@ -23,6 +23,7 @@ This section is in no way pretending to be complete. Please get in touch if you 
 - [Spaghetti Open Data Mailing List](https://groups.google.com/g/spaghettiopendata), the mailing list of the Italian open data community.
 
 ## Netherlands
+- [Geonovum](https://geonovum.nl) A government initiated non-profit for geo-information standards and interoperability. The European contact point for INSPIRE implementation, and assisting government data providers with the implementation of the EU Data Strategy.
 - [Public Spaces](https://publicspaces.net/) Advocating for a non-silo'd internet that strengthens the public domain and public discourse. Likely focus on DMA, DSA and AI Regulation.
 - [Open State Foundation](https://openstate.eu) Open government NGO. Interested in DGA, ODD, EUHVD.
 - [Vereniging Open Nederland](https://opennederland.nl) Association of Creative Commons license using makers. Interested in the cultural heritage data space and others,as well as likely interest in the DSA.
