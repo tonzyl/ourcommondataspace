@@ -31,3 +31,6 @@ This section is in no way pretending to be complete. Please get in touch (info@o
 
 ## Sweden
 - [Open Knowledge Foundation Chapter Sweden](https://okfn.se/), focus on open knowledge and democratic participation, in which open data over the years has been an important topic.
+
+## EU wide
+- [International Data Spaces Association IDSA](https://internationaldataspaces.org/) Membership organisation of industry and research stakeholders, aiming to bring the forming of data spaces forward by proposing standards and technological components. Have regular events and together with the EU's Data Space Support Center (DSCS) organised a multiday conference in early 2023.
