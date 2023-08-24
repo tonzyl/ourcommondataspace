@@ -34,3 +34,4 @@ This section is in no way pretending to be complete. Please get in touch (info@o
 
 ## EU wide
 - [International Data Spaces Association IDSA](https://internationaldataspaces.org/) Membership organisation of industry and research stakeholders, aiming to bring the forming of data spaces forward by proposing standards and technological components. Have regular events and together with the EU's Data Space Support Center (DSCS) organised a multiday conference in early 2023.
+- [Open Geospatial Consortium Europe (OGC Europe)](https://www.ogc.org/about-ogc/regions-and-forums/) OGC is involved in discussions around geo standards and API's which are relevant both for the data spaces and the implementation of the EU High Value Data.
