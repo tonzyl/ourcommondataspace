@@ -1,4 +1,4 @@
-# Active organisations and people per country
+# Active organisations and networks per country
 
 Many EU MS have civic organisations and/or individuals who are actively engaging with the implementation and impact of the EU Data Strategy and its laws, and the forming of the European common dataspace(s). Below is a growing overview of who is active where, and what the apparant focus of those activities is (which laws or dataspaces are of most interest to them).
 
@@ -36,3 +36,4 @@ This section is in no way pretending to be complete. Please get in touch (info@o
 - [International Data Spaces Association IDSA](https://internationaldataspaces.org/) Membership organisation of industry and research stakeholders, aiming to bring the forming of data spaces forward by proposing standards and technological components. Have regular events and together with the EU's Data Space Support Center (DSCS) organised a multiday conference in early 2023.
 - [Open Geospatial Consortium Europe (OGC Europe)](https://www.ogc.org/about-ogc/regions-and-forums/) OGC is involved in discussions around geo standards and API's which are relevant both for the data spaces and the implementation of the EU High Value Data.
 - [ODECO](https://odeco-research.eu/), Horizon 2020 research programme 2021-2025 into the Open Data eco system. Unknown as yet whether the forming of the EU common data space and the impact of new data laws is part of the research.
+- [Edgeryders](https://start.edgeryders.eu/) is a network, community and company, a.o. involved in the Next Generation Internet efforts ('internet of humans'). A Europe wide network, coordinated from a hub in Brussels, Belgium.
